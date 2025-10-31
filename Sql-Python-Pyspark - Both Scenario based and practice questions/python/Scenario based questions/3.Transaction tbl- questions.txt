@@ -1,0 +1,17 @@
+
+🔹 Basic Level
+
+Retrieve all transactions made in February 2019.
+Find the total number of transactions.
+Get the maximum, minimum, and average transaction value.
+List all distinct purchase IDs.
+Find transactions where the value is greater than 180000.
+
+
+🔹 Intermediate Level
+
+Group transactions by purchase ID and calculate the total value per group.
+Find the top 3 transactions with the highest value.
+Calculate the number of transactions per month.
+Find the average transaction value for each purchase ID.
+Identify transactions that occurred on weekends.

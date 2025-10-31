@@ -1,0 +1,42 @@
+Here are 30 SQL coding interview questions based on your dataset, divided into three categories:
+
+🔹 Basic Level (10 Questions)
+
+Retrieve all records from the table.
+Select distinct product names.
+Count the number of sales entries per country.
+List all records where discountband is 'High'.
+Show the total number of units sold for each segment.
+Find all sales made in the year 2022.
+Display the product, unitssold, and profit for each sale.
+List all unique managerid values.
+Get the number of sales per monthname.
+Show all records where profit is greater than 10,000.
+
+
+🔹 Intermediate Level (10 Questions)
+
+Calculate total sales and profit for each product.
+Find the top 5 products with the highest total profit.
+Get average unitssold per discountband.
+Extract year and month from the date column.
+Count sales entries per managerid and sort by count.
+Show the total grosssales per country and year.
+List products with average profit greater than 5,000.
+Find the number of sales where discounts are zero.
+Display the top 3 months with the highest total sales.
+Compare total sales between 'Canada' and 'France'.
+
+
+🔹 Advanced Level (10 Questions)
+
+Calculate profit margin (profit/sales) for each sale and rank them.
+Identify the most profitable managerid across all years.
+Compare monthly sales trends for 'Amarilla' across countries.
+Use a window function to calculate cumulative sales per country.
+Find anomalies where discountband is not 'None' but discounts = 0.
+Show the top 3 segments by average profit per sale.
+Identify products with declining sales over consecutive months.
+Calculate year-over-year growth in total sales per country.
+Use a subquery to find products with above-average unitssold.
+Create a pivot-style output showing total sales per product per year.

@@ -1,0 +1,16 @@
+🔹 Intermediate Questions
+
+List all users who have more than 2 friends.
+Find users who are friends with 'Emma'.
+Get the number of mutual friendships (i.e., both users are friends with each other).
+Find users who have no friends.
+List each user and the number of times they appear as a friend.
+
+
+🔹 Advanced Questions
+
+Find the top 3 users with the most friends.
+Find users who are friends with someone who is also friends with them (mutual friendship), and list both names.
+Find users who share the same friend (i.e., friend_id is common between two different users).
+Using a CTE, find users who are friends with someone named 'Lucas' and count how many such users exist.
+Find users who are friends with the same person more than once (duplicate friendships).

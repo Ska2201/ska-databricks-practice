@@ -1,0 +1,112 @@
+SQL - Basic Questions
+1. Retrieve all records from the employee table.
+2. Retrieve all records from the department table.
+3. Select the first name and last name of all employees.
+4. Select the department name and location ID from the department table.
+5. Find the total number of employees.
+6. Find the total number of departments.
+7. Retrieve employees with salary greater than 5000.
+8. Retrieve departments located in location ID 1700.
+9. Retrieve employees hired after 01-JAN-05.
+10. Retrieve employees whose job ID is 'IT_PROG'.
+11. Retrieve employees with commission percentage not null.
+12. Retrieve employees whose first name starts with 'A'.
+13. Retrieve employees whose last name ends with 'n'.
+14. Retrieve employees whose salary is between 4000 and 8000.
+15. Retrieve employees sorted by salary in descending order.
+16. Retrieve departments sorted by department name.
+17. Retrieve distinct job IDs from the employee table.
+18. Retrieve distinct location IDs from the department table.
+19. Count the number of employees in each department.
+20. Count the number of employees for each job ID.
+21. Retrieve the maximum salary from the employee table.
+22. Retrieve the minimum salary from the employee table.
+23. Retrieve the average salary of employees.
+24. Retrieve employees whose manager ID is 100.
+25. Retrieve departments with no manager assigned.
+26. Retrieve employees whose department ID is 50.
+27. Retrieve employees whose email contains 'KING'.
+28. Retrieve employees whose phone number starts with '515'.
+29. Retrieve employees whose hire date is in 2005.
+30. Retrieve employees whose job ID contains 'CLERK'.
+------------------------------------------------------------------------------------
+SQL - Intermediate Questions
+1. Retrieve employee details along with their department name using JOIN.
+2. Find the average salary for each department.
+3. Find the department with the highest average salary.
+4. Retrieve employees who do not have a manager.
+5. Retrieve departments with more than 5 employees.
+6. Retrieve employees whose salary is above the average salary.
+7. Retrieve the top 5 highest paid employees.
+8. Retrieve the number of employees hired each year.
+9. Retrieve employees grouped by job ID and count them.
+10. Retrieve departments with employees having job ID 'ST_CLERK'.
+-------------------------------------------------------------------------------------
+SQL - Advanced Questions
+1. Retrieve employees along with their manager's name.
+2. Find the department with the most number of employees.
+3. Retrieve employees who share the same job ID as their manager.
+4. Retrieve employees whose salary is more than their manager.
+5. Retrieve departments with no employees.
+6. Retrieve employees who have the same hire date.
+7. Retrieve employees whose salary is in the top 10% of all salaries.
+8. Retrieve employees grouped by department and job ID with average salary.
+9. Retrieve employees whose department is located in location ID 1700.
+10. Retrieve employees whose job ID starts with 'FI' and salary above 8000.
+-------------------------------------------------------------------------------------
+Pandas - Basic Questions
+1. Display all rows from the employee DataFrame.
+2. Display all rows from the department DataFrame.
+3. Show the first name and last name of all employees.
+4. Show the department name and location ID from the department DataFrame.
+5. Count the total number of employees.
+6. Count the total number of departments.
+7. Filter employees with salary greater than 5000.
+8. Filter departments with location ID equal to 1700.
+9. Filter employees hired after '01-JAN-05'.
+10. Filter employees with job ID equal to 'IT_PROG'.
+11. Filter employees with non-null commission percentage.
+12. Filter employees whose first name starts with 'A'.
+13. Filter employees whose last name ends with 'n'.
+14. Filter employees with salary between 4000 and 8000.
+15. Sort employees by salary in descending order.
+16. Sort departments by department name.
+17. Get distinct job IDs from the employee DataFrame.
+18. Get distinct location IDs from the department DataFrame.
+19. Count employees in each department.
+20. Count employees for each job ID.
+21. Get the maximum salary from the employee DataFrame.
+22. Get the minimum salary from the employee DataFrame.
+23. Get the average salary of employees.
+24. Filter employees with manager ID equal to 100.
+25. Filter departments with no manager assigned.
+26. Filter employees with department ID equal to 50.
+27. Filter employees whose email contains 'KING'.
+28. Filter employees whose phone number starts with '515'.
+29. Filter employees hired in the year 2005.
+30. Filter employees whose job ID contains 'CLERK'.
+-------------------------------------------------------------------------------------
+Pandas - Intermediate Questions
+1. Merge employee and department DataFrames on department ID.
+2. Calculate average salary for each department.
+3. Find the department with the highest average salary.
+4. Filter employees with no manager ID.
+5. Find departments with more than 5 employees.
+6. Filter employees with salary above the average salary.
+7. Get top 5 highest paid employees.
+8. Count number of employees hired each year.
+9. Group employees by job ID and count them.
+10. Filter departments with employees having job ID 'ST_CLERK'.
+-------------------------------------------------------------------------------------
+Pandas - Advanced Questions
+1. Merge employee DataFrame with itself to get manager's name.
+2. Find the department with the most employees.
+3. Filter employees with same job ID as their manager.
+4. Filter employees with salary greater than their manager.
+5. Find departments with no employees.
+6. Find employees with same hire date.
+7. Filter employees in the top 10% salary bracket.
+8. Group employees by department and job ID and calculate average salary.
+9. Filter employees whose department is in location ID 1700.
+10. Filter employees with job ID starting with 'FI' and salary above 8000.
+-------------------------------------------------------------------------------------
