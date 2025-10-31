@@ -1,4 +1,3 @@
- %md
 # Sql-Python-Pyspark - Scenario Based and Practice Questions
 
 ## Overview
