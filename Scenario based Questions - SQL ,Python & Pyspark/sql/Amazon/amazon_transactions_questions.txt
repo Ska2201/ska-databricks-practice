@@ -1,0 +1,10 @@
+What is the total revenue generated from each item?
+Which item had the highest number of transactions?
+What is the average revenue per transaction for each item?
+List all transactions made by user_id 139.
+Which day had the third highest total revenue?
+How many unique users purchased 'banana'?
+What is the total revenue generated in the month of March 2020?
+Which users made more than one transaction?
+What is the revenue trend for 'bread' over time?
+Rank the items based on total revenue in descending order.
