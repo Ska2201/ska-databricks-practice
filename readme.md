@@ -1,6 +1,6 @@
 # SQL-Python-PySpark: Scenario-Based Practice
 
-[![Open in Databricks](https://img.shields.io/badge/Open%20in-Databricks-orange?style=for-the-badge)](https://community.cloud.databricks.comdes **scenario-based and practice questions** for **Databricks**, focusing on **SQL**, **Python**, and **PySpark**. Perfect for learning **data engineering** and **analytics** in Databricks notebooks.
+[![Databricks](https://img.shields.io/badge/Open%20in-Databricks-orange?style=for-the-badge)](https://community.cloud.databricks.comdes **scenario-based and practice questions** for **Databricks**, focusing on **SQL**, **Python**, and **PySpark**. Perfect for learning **data engineering** and **analytics** in Databricks notebooks.
 
 ---
 
@@ -27,39 +27,28 @@ Sign up for **Databricks Community Edition** (free):
 3. Paste this repo’s Git URL:
    [![https://github.com/Ska2201/ska-databricks-practice/edit/databricks_practice]( https://github.com/Ska2201/ska-databricks-practice/edit/databricks_practice)]
 4. Click **Create**. Your repo will appear in Databricks.
-
-**Screenshot Placeholder:**  
-`images/add_repo.png`
-
 ---
 
 ### ✅ 3. Set Up a Cluster
 1. Go to **Compute → Create Cluster**.
 2. Choose **Community Edition** defaults (small cluster).
 3. Click **Create** and wait for the cluster to start.
-
-**Screenshot Placeholder:**  
-`images/create_cluster.png`
-
 ---
 
 ### ✅ 4. Run the Notebooks
 - Open any notebook from the repo.
 - Attach it to your cluster.
 - Execute cells step by step.
-
 ---
 
 ## 💡 Why Databricks?
 - Free cluster for development  
 - Built-in Spark & Python support  
 - Easy Git integration  
-
 ---
 
 ## 🤝 Contributing
 Pull requests and suggestions are welcome!
-
 ---
 
 ## 📜 License
