@@ -1,6 +1,6 @@
 # SQL-Python-PySpark: Scenario-Based Practice
 
-(https://community.cloud.databricks.comdes **scenario-based and practice questions** for **Databricks**, focusing on **SQL**, **Python**, and **PySpark**. Perfect for learning **data engineering** and **analytics** in Databricks notebooks.
+**scenario-based and practice questions** for **Databricks**, focusing on **SQL**, **Python**, and **PySpark**. Perfect for learning **data engineering** and **analytics** in Databricks notebooks.
 
 ---
 
